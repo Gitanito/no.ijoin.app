@@ -1,2 +1,1 @@
-# no.ijoin.app
-Norwegisch
+0.8094881897536814
