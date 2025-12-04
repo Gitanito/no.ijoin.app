@@ -4,6 +4,7 @@ title: Slik Får Du Full Kontroll over Påmeldinger til Ditt Skill-Share Event
 subtitle: Maksimer oppmøtet til dine lokale kurs uten registreringstrøbbel
 tags: [eventorganisering, skillshare]
 author: ijoin.app
+language: no
 ---
 
 # Slutt å Gjette – Få Nøyaktige Påmeldinger til Dine Skill-Share Samlinger

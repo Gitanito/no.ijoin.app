@@ -4,6 +4,7 @@ title: Slik samler du gjengen til Public Viewing uten kaotiske meldinger
 subtitle: Maksimal oppmøte til kampen - Minimer stresset med planlegging
 tags: [Public Viewing, Eventplanlegging]
 author: ijoin.app
+language: no
 ---
 
 # Samle Sportskameratene – Den Enkleste Måten å Invitere til Storskjermvisning

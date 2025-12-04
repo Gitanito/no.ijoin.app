@@ -4,6 +4,7 @@ title: Samle Nabolaget- Organisering av Dugnader Uten Registeringstrøbbel
 subtitle: Maksimer oppmøtet til ditt neste nabolagsarrangement eller dugnad- enkel påmelding, ingen app
 tags: dugnad-organisering, nabolagshjelp
 author: ijoin.app
+language: no
 ---
 
 # Slutt på Gjettingen- Slik Maksimerer du Oppmøtet til Nabolagsdugnaden

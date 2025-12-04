@@ -4,6 +4,7 @@ title: Aldri mer kaos- Slik organiserer du kjørelag til skoleturen
 subtitle: Maksimer oppmøtet og forenkle logistikken for turer og arrangementer
 tags: [kjørelag organisering, eventplanlegging]
 author: ijoin.app
+language: no
 ---
 
 # Lei av e-postkjeder? Organiser kjørelagene uten stress!

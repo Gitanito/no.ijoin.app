@@ -4,6 +4,7 @@ title: Få Maksimalt Oppmøte på Ditt Neste Bransje-Meetup
 subtitle: Slutt å jage RSVP-er- En enkel metode for profesjonelle nettverkstreff
 tags: [eventorganisering, profesjonelt nettverk]
 author: ijoin.app
+language: no
 ---
 
 # Få Maksimalt Oppmøte på Ditt Neste Bransje-Meetup – Uten Registreringshinder

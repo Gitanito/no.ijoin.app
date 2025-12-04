@@ -4,6 +4,7 @@ title: Slik Fyller Du Töpferkurset Uten Påmeldingskaos
 subtitle: Få Maksimal Påmelding til Dine Arrangementer Med En Enkel Lenke
 tags: [eventorganisering, påmelding]
 author: ijoin.app
+language: no
 ---
 
 # Frigjør Deg Fra Påmeldingskaos – Få Fullbooket Ditt Töpferkurs

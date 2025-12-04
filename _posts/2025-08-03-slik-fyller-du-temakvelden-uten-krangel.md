@@ -4,6 +4,7 @@ title: Slik Fyller Du Temakvelden Uten Krangel
 subtitle: Den Enkle Måten for Biblioteker og Kultursentre å Samle Påmeldinger
 tags: [Arrangementsplanlegging, Påmeldingsverktøy]
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser Påmeldingen til Ditt Neste Arrangement – Helt Uten Friksjon!

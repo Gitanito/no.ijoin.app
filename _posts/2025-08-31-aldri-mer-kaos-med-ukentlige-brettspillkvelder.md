@@ -4,6 +4,7 @@ title: Aldri mer kaos med ukentlige brettspillkvelder
 subtitle: Slik får du maksimal oppmøte og null stress med din neste event
 tags: [eventorganisering, brettspillkveld]
 author: ijoin.app
+language: no
 ---
 
 # Aldri mer kaos med ukentlige brettspillkvelder

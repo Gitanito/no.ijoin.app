@@ -4,6 +4,7 @@ title: Aldri mer kaos- Få oversikt over fremmøte til trening og kamp
 subtitle: Slutt på endeløse meldinger- Slik organiserer du idrettslaget uten stress
 tags: [idrettslag organisering, fremmøte sport]
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser treningen- Få 100% fremmøtekontroll for idrettslaget

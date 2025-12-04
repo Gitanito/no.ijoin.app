@@ -4,6 +4,7 @@ title: Slik sikrer du maksimal oppmøte på din neste Beta-test
 subtitle: Få en skyhøy responsrate på invitasjoner uten registrering eller innlogging
 tags: [eventorganisering, beta-testing]
 author: ijoin.app
+language: no
 ---
 
 # Slutt å jage svar - Organiser Beta-tester som fenger uten friksjon

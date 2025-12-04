@@ -4,6 +4,7 @@ title: Få Studiekameratene Samlet - Null Stress
 subtitle: Organiser læregruppen din uten pålogging eller rotete e-poster
 tags: Studentliv, Eventplanlegging
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser Læregruppen - **Studentorganisering** Uten Friksjon

@@ -4,6 +4,7 @@ title: Aldri Mer Kaos- Slik Organiserer du Dugnad og Frivillige
 subtitle: Den enkle metoden for å maksimere oppmøtet til ditt neste skolearrangement
 tags: [dugnad, frivillighet]
 author: ijoin.app
+language: no
 ---
 # Aldri Mer Kaos: Slik Får Du Frivillige Til Skoleflohmarkeden
 

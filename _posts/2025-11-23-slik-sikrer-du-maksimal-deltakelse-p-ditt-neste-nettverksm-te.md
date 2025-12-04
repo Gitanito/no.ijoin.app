@@ -4,6 +4,7 @@ title: Slik sikrer du maksimal deltakelse på ditt neste nettverksmøte
 subtitle: Styrk ditt lokale næringsliv - inviter uten friksjon
 tags: [eventorganisering, næringsliv]
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser ditt lokale Stammtisch-møte – Glem e-postkaoset

@@ -4,6 +4,7 @@ title: Slutt å jage svar - Slik får du full oversikt over gjestelisten
 subtitle: Den enkle metoden for å maksimere oppmøtet til ditt ukentlige bokklubbmøte
 tags: [bokklubb, eventplanlegging]
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser din Bokklubb-Planlegging - Få Svar Uten Registering

@@ -4,6 +4,7 @@ title: Slik samler du Alumni-nettverket uten påloggingstrøbbel
 subtitle: Maksimal oppmøte på ditt neste Alumni-arrangement - Helt gratis
 tags: [Alumni-arrangement, Event-organisering]
 author: ijoin.app
+language: no
 ---
 
 # Gjør Alumni-Stammtischen til en suksess – Få svar raskt!

@@ -4,6 +4,7 @@ title: Få full oversikt over gjestene til neste tur uten stress
 subtitle: Maksimal oppmøte for tur- og sykkelgrupper - Enkelt, raskt, og uten registrering
 tags: [arrangementsorganisering, turtreff]
 author: ijoin.app
+language: no
 ---
 
 # SLUTT MED GJETTINGEN - Slik organiserer du tur- og sykkelgrupper smertefritt

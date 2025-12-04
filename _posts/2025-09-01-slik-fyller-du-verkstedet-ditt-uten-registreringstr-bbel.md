@@ -4,6 +4,7 @@ title: Slik Fyller Du Verkstedet Ditt Uten Registreringstrøbbel
 subtitle: Maksimal Oppmøte for Dine Gratis Workshops og Arrangementer
 tags: [eventorganisering, gratis workshop]
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser Ditt Kreative Verksted – Få 100% Svarprosent!

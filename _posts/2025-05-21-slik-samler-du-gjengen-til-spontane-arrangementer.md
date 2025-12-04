@@ -4,6 +4,7 @@ title: Slik samler du gjengen til spontane arrangementer
 subtitle: Maksimal oppmøte for ditt neste park-picknick eller grillfest
 tags: [Arrangementsplanlegging, SpontaneEvents]
 author: ijoin.app
+language: no
 ---
 # Samle venner til Spontan Picknick – Uten Registreringsmas
 

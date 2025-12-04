@@ -4,6 +4,7 @@ title: Slik samler du frilansere til spontane co-working-møter
 subtitle: Maksimal oppmøte for dine nettverksarrangementer uten stress
 tags: [eventorganisering, co-working]
 author: ijoin.app
+language: no
 ---
 
 # Frilanslivet – Organiser ditt neste Co-Working-møte på 30 sekunder

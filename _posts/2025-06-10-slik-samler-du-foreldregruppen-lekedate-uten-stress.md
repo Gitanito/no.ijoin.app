@@ -4,6 +4,7 @@ title: Slik samler du foreldregruppen - Lekedate uten stress
 subtitle: Maksimer oppmøtet til spontane treff med ett enkelt verktøy
 tags: [arrangementer, foreldre]
 author: ijoin.app
+language: no
 ---
 
 # Lekedate på minutter – Se hvem som kommer, uten kaos!

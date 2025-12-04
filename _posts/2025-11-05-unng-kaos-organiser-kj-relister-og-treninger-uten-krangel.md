@@ -4,6 +4,7 @@ title: Unngå Kaos- Organiser Kjørelister og Treninger Uten Krangel
 subtitle: Den smarte måten å koordinere transport for lag, klubber og arrangementer
 tags: [kjøreorganisering, idrettslag]
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser Lagtransport- Si Farvel til Kronglete Koordinering av Kjørelister

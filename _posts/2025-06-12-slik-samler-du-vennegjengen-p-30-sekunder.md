@@ -4,6 +4,7 @@ title: Slik samler du vennegjengen på 30 sekunder
 subtitle: Maksimal oppmøte for spontane events uten påloggingstrøbbel
 tags: [eventplanlegging, spontane treff]
 author: ijoin.app
+language: no
 ---
 
 # Spontane treff – Koordinering uten friksjon

@@ -4,6 +4,7 @@ title: Glem Kaoset- Slik Får Du Maksimal Oppmøte På Barnebursdagen
 subtitle: Den stressfrie metoden for å organisere private arrangementer og få raske svar uten pålogging
 tags: [eventorganisering, barnebursdag]
 author: ijoin.app
+language: no
 ---
 
 # Barnebursdag uten Stress- Få Svar Fra Alle På To Minutter

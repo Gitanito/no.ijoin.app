@@ -4,6 +4,7 @@ title: Slik Får Du Maksimal Oppmøte På Ditt Neste Nabolagsarrangement
 subtitle: Gratis verktøy som forenkler invitasjoner og påmelding for dugnader og fester
 tags: [arrangementsplanlegging,nabolagsfest]
 author: ijoin.app
+language: no
 ---
 # Stopp Kaoset – Slik Organiserer Du Nabolagsfesten Uten Stress
 

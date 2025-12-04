@@ -4,6 +4,7 @@ title: Konsert-Pre-Party uten Påmeldingskaos
 subtitle: Slik får du maksimal respons på din spontane festinvitasjon
 tags: [Eventorganisering, RSVP-verktøy]
 author: ijoin.app
+language: no
 ---
 
 # Optimaliser din Pre-Party – Gjestelisten som fikser seg selv

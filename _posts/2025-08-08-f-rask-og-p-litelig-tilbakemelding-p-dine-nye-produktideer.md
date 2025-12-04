@@ -4,6 +4,7 @@ title: Få Rask og Pålitelig Tilbakemelding på Dine Nye Produktideer
 subtitle: Slutt å jage svar - Slik sikrer du maksimal deltakelse i din neste feedback-session
 tags: [Produktdesign, Eventorganisering]
 author: ijoin.app
+language: no
 ---
 
 # Få Rask og Pålitelig Tilbakemelding på Dine Nye Produktideer

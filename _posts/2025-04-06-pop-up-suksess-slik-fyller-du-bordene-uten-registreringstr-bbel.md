@@ -4,6 +4,7 @@ title: Pop-up Suksess- Slik Fyller Du Bordene Uten Registreringstrøbbel
 subtitle: Maksimer oppmøtet til ditt neste eksklusive arrangement med ett enkelt verktøy
 tags: [eventorganisering, pop-up-middag]
 author: ijoin.app
+language: no
 ---
 
 # Pop-up Suksess – Slik Fyller Du Bordene Uten Registreringstrøbbel

@@ -4,6 +4,7 @@ title: Enklere foreldremøter - Slik maksimerer du oppmøtet
 subtitle: Glem papirlapper og lange e-poster - Få full kontroll på påmeldingene
 tags: [foreldremøter, event-organisering]
 author: ijoin.app
+language: no
 ---
 
 # Håndter påmelding til foreldremøter og konferansetimer uten stress

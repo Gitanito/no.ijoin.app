@@ -4,6 +4,7 @@ title: Få Oversikt Over Hvem Som Blir Med På After Work
 subtitle: Den enkleste måten å organisere kollega-samlinger og sosiale arrangementer på
 tags: [eventorganisering, afterwork]
 author: ijoin.app
+language: no
 ---
 
 # Slutt å Gjette – Få Raskt Svar På Hvem Som Kommer til After Work

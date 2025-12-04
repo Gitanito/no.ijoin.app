@@ -4,6 +4,7 @@ title: Glem Kaoset- Slik Organiserer du Spontane Grillfester Uten Stress
 subtitle: Maksimalt oppmøte på din neste sosiale sammenkomst- helt uten registrering
 tags: [eventorganisering, grillfest]
 author: ijoin.app
+language: no
 ---
 
 # Ønsker du en Spontan Grillfest? Få Alle Med Uten Registrering

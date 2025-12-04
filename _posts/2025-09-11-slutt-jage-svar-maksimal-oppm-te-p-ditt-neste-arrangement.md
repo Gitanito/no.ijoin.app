@@ -4,6 +4,7 @@ title: Slutt å jage svar - Maksimal oppmøte på ditt neste arrangement
 subtitle: Slik får du full kontroll over event-påmeldingen uten registrering og stress
 tags: [eventplanlegging, påmeldingssystem]
 author: ijoin.app
+language: no
 ---
 # Slutt å jage svar – Få 100% oversikt over deltakerne til sommerfesten
 
